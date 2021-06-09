@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">RecyclerViewPractice</string>
+    <string name="per_box">Per Box: </string>
+</resources>
